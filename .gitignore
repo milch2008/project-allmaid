@@ -1,0 +1,12 @@
+venv/
+build/
+dist/
+__pycache__/
+erro.log
+_lixeira_maid/
+*.spec
+.env
+memoria_maid.json
+*.png
+*.jpg
+*.gif
